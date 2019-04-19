@@ -30,10 +30,17 @@ nav {
   display: inline-block;
 }
 
+#MainText {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
 .OtherLocations {
   width: 20%;
   display: inline-block;
+  padding-top: 10px;
   padding-left: 40px;
+  vertical-align: top;
 }
 
 footer {
