@@ -13,9 +13,8 @@ header {
   display: float;
 }
 
-header.a {
-  display: float;
-  text-align: right;
+#Login {
+  float: right;
 }
 
 nav {
