@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+  color: white;
+  background-color: #bc0b0b;
+  padding: 10px;
+}
+
+#Title {
+  font-size: 2.5em;
+}
+
+nav {
+  color: white;
+  background-color: rgb(60, 60, 60);
+  padding: 10px;
+  text-align: right;
+}
+
+main {
+  width: 70%;
+  display: inline-block;
+}
+
+.OtherLocations {
+  display: block;
+  width: 20%;
+  display: inline-block;
+}
+
+footer {
+  color: white;
+  background-color: rgb(60, 60, 60);
+  padding: 10px;
+}
+
+a {
+  color: white;
+  font-size: 1em;
+  padding-left: 10px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+p {
+  padding-top: 7px;
+}
+
+img {
+  width: 100%;
+}
+
+#MainImg {
+  padding: 10px;
+}
+
+.AsideImg {
+  padding: 5px 10px 20px 30px;
+}
