@@ -10,6 +10,12 @@ header {
 
 #Title {
   font-size: 2.5em;
+  display: float;
+}
+
+header.a {
+  display: float;
+  text-align: right;
 }
 
 nav {
@@ -20,12 +26,11 @@ nav {
 }
 
 main {
-  width: 70%;
+  width: 60%;
   display: inline-block;
 }
 
 .OtherLocations {
-  display: block;
   width: 20%;
   display: inline-block;
 }
@@ -48,7 +53,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: bold;
 }
 
